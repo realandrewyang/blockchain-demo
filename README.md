@@ -1,5 +1,5 @@
 # blockchain-demo
-An introductory blockchain demo for the UW Fintech Club
+An introductory blockchain demo for the UW Fintech Club. Created by Andrew Yang
 
 ## Getting Started
 Click on ```Clone or download``` to clone this repository or download a ZIP file.
