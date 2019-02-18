@@ -8,4 +8,21 @@ You'll also need to install the [dependencies](#Dependencies-1) for this project
 ## Using the Command Line
 Once you've downloaded the files to a folder on your computer, you'll need to 
 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
 ## Dependencies
