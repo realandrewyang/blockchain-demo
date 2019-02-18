@@ -39,7 +39,7 @@ In real life, bitcoin mining is done with specialized circuits designed to handl
 
 To begin mining, we would enter ```miner.start(2);``` in the Javascript console.
 
-To quickly stop mining, we could enter ```miner.stop()``` in the Javascript console.
+To quickly stop mining, we could enter ```miner.stop();``` in the Javascript console.
 
 ## Dependencies
 - [```Go Ethereum 1.8.22```](https://geth.ethereum.org/downloads/)
